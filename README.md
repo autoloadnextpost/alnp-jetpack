@@ -21,7 +21,7 @@
 
 ## 🔔 Overview
 
-Overview of the add-on goes here.
+This add-on loads JetPack Tiled Gallery script when a post with the gallery shortcode has loaded via Auto Load Next Post to allow the gallery to display correctly.
 
 ## 📦 Requirements
 
