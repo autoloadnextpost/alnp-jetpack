@@ -1,4 +1,4 @@
-=== alnp-jetpack ===
+=== Auto Load Next Post: JetPack ===
 Contributors: autoloadnextpost, sebd86
 Donate link: https://sebdumont.xyz/donate/
 Tags: Auto Load Next Post
@@ -13,7 +13,7 @@ Enables support for JetPack Tiled Gallery when a post has loaded.
 
 == Description ==
 
-Overview of the add-on goes here.
+This add-on loads JetPack Tiled Gallery script when a post with the gallery shortcode has loaded via Auto Load Next Post to allow the gallery to display correctly.
 
 **Requires**
 
@@ -54,7 +54,7 @@ This plugin is created and maintained by [Sébastien Dumont](https://sebastiendu
 
 == Installation ==
 
-Installing "alnp-jetpack" can be done either by searching for "Auto Load Next Post" via the "Plugins > Add New" screen in your WordPress dashboard, or by using the following steps:
+Installing "Auto Load Next Post: JetPack" can be done either by searching for "Auto Load Next Post" via the "Plugins > Add New" screen in your WordPress dashboard, or by using the following steps:
 
 1. Download the plugin via WordPress.org
 2. Upload the ZIP file through the 'Plugins > Add New > Upload' screen in your WordPress dashboard.
